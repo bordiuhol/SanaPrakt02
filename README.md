@@ -11,5 +11,5 @@
 
 Репозиторій на:
 - [x]GitHub
-- []GitLab
-- []Bitbucket
+- [ ]GitLab
+- [ ]Bitbucket
